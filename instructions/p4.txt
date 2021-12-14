@@ -1,0 +1,10 @@
+move to the couch and turn left, then move to the front of the plant
+turn left and move to the table
+turn right and move to the door
+move to the chair, turn left and move to the window
+move to the couch, turn left and move to the window
+move to the couch. turn right and move to the trashbin
+turn right and move to the bookshelf
+turn rigth and move to the table
+move to the front of desk
+turn left and move towards the wall

@@ -1,0 +1,8 @@
+prefix=/home/frankbu/phd_courses/nlp_ml/nlp_ws/install
+
+Name: detection_msg
+Description: Description of detection_msg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_generation roscpp rospy std_msgs

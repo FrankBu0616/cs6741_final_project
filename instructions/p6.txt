@@ -1,0 +1,10 @@
+move to the trashcan and turn right, then move to the door
+move to the bookshelf and turn right, then move to the chair
+turn right and move to the plant
+turn right and move to the table, then turn left
+move to the couch then turn right
+move to the door
+turn left and move to the couch
+turn left and move to the chair
+turn right and move to the table
+turn right and move to the couch, then turn left and move to the trashcan

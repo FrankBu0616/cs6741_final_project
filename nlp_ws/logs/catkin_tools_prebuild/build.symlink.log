@@ -1,0 +1,12 @@
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./local_setup.zsh
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./setup.bash
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./setup.zsh
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./local_setup.bash
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./local_setup.sh
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./setup.sh
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./_setup_util.py
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./env.sh
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./cmake.lock
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

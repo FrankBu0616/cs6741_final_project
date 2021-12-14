@@ -1,0 +1,20 @@
+detection_msg
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/cmake.lock /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/./cmake.lock
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/lib/python3/dist-packages/detection_msg/__init__.py /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/lib/python3/dist-packages/detection_msg/__init__.py
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/lib/python3/dist-packages/detection_msg/msg/_objMessage.py /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/lib/python3/dist-packages/detection_msg/msg/_objMessage.py
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/lib/python3/dist-packages/detection_msg/msg/__init__.py /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/lib/python3/dist-packages/detection_msg/msg/__init__.py
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/lib/pkgconfig/detection_msg.pc /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/lib/pkgconfig/detection_msg.pc
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/include/detection_msg/objMessage.h /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/include/detection_msg/objMessage.h
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/roseus/ros/detection_msg/manifest.l /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/roseus/ros/detection_msg/manifest.l
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/roseus/ros/detection_msg/msg/objMessage.l /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/roseus/ros/detection_msg/msg/objMessage.l
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/common-lisp/ros/detection_msg/msg/objMessage.lisp /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/common-lisp/ros/detection_msg/msg/objMessage.lisp
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/common-lisp/ros/detection_msg/msg/_package_objMessage.lisp /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/common-lisp/ros/detection_msg/msg/_package_objMessage.lisp
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/common-lisp/ros/detection_msg/msg/detection_msg-msg.asd /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/common-lisp/ros/detection_msg/msg/detection_msg-msg.asd
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/common-lisp/ros/detection_msg/msg/_package.lisp /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/common-lisp/ros/detection_msg/msg/_package.lisp
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/gennodejs/ros/detection_msg/_index.js /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/gennodejs/ros/detection_msg/_index.js
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/gennodejs/ros/detection_msg/msg/_index.js /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/gennodejs/ros/detection_msg/msg/_index.js
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/gennodejs/ros/detection_msg/msg/objMessage.js /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/gennodejs/ros/detection_msg/msg/objMessage.js
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/detection_msg/cmake/detection_msg-msg-paths.cmake /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/detection_msg/cmake/detection_msg-msg-paths.cmake
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/detection_msg/cmake/detection_msgConfig-version.cmake /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/detection_msg/cmake/detection_msgConfig-version.cmake
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/detection_msg/cmake/detection_msgConfig.cmake /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/detection_msg/cmake/detection_msgConfig.cmake
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/share/detection_msg/cmake/detection_msg-msg-extras.cmake /home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/share/detection_msg/cmake/detection_msg-msg-extras.cmake

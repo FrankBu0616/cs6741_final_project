@@ -1,0 +1,62 @@
+move forward and stop in front of the desk
+turn left and move to the bookshelf
+turn around and move to the desk
+turn right and stop near the plant
+go to the front of the couch
+head towards the door and stop in front of the door
+go around the table from right and stop in front of the desk, then drive towards the sofa
+move to the plant from left of the table
+move to the left of the chair
+move to door from left of the table
+move to the door and turn right, then move to the front of the bookshelf
+turn right and move to the window
+move to the desk and turn right, then move to the table
+move to the sofa and turn right, then move to the trashcan
+move to the door and then turn right, then move to the table
+move to the window and turn left, then move to the bookshelf
+turn left and move to the trashcan, and the turn left.
+go straight to the couch
+turn left and move to the table, then turn right
+move to the desk, then turn right and move to the plant
+move to the plant and turn right, then move to the nearest window
+move to the table, move around table and stop at the back of the chair
+move to the desk, turn around and move to the back of the chair
+move to the door, and then move to the table
+move to the left of the sofa
+move to the room corner near the bookshelf, and then move to the farthest room corner
+move to the window next to the desk, and then move to the door
+move to the couch and turn left, then move to the front of the plant
+turn left and move to the table
+turn right and move to the door
+move to the chair, turn left and move to the window
+move to the couch, turn left and move to the window
+move to the couch. turn right and move to the trashbin
+turn right and move to the bookshelf
+turn rigth and move to the table
+move to the front of desk
+turn left and move towards the wall
+turn around the move to the front of the couch and turn around again
+turn left, move straight towards the wall, then turn left facing the trashcan
+turn left, move straight and then move towards the plant
+
+
+move towards the chair and stop behind it
+move towards the bookshelf
+turn left and move towards the door
+turn left and move towards the table.
+turn right and move towards the couch, then turn around
+move straight and turn right to move behind the chair
+move backwards and stand next to the bookshelf on the right
+move to the trashcan and turn right, then move to the door
+move to the bookshelf and turn right, then move to the chair
+turn right and move to the plant
+turn right and move to the table, then turn left
+move to the couch then turn right
+move to the door
+turn left and move to the couch
+turn left and move to the chair
+turn right and move to the table
+turn right and move to the couch, then turn left and move to the trashcan
+move to the middle of chair and table, and then turn and move to the bookshelf
+move to the chair, and the move to the nearest room corner
+move to the corner that has not been reached in previous commands

@@ -1,0 +1,3 @@
+Imagine you have a robot that can move around by itself.
+Please write down 10 sentences to drive the robot around, and each sentence can contain several commands. (e.g. move to the left of the person, then turn left and head towards the door.)
+Commands will be applied sequentially.

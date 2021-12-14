@@ -1,0 +1,41 @@
+{"prompt":"move to the desk then turn right, then move to the table\n\n1.","completion":" move desk \n turn right\n move table\n."}
+{"prompt":"move forward and stop in front of the desk\n\n1.","completion":" move desk\n."}
+{"prompt":"turn left and move to the bookshelf\n\n1.","completion":" turn left \n move bookshelf\n."}
+{"prompt":"turn around and move to the desk\n\n1.","completion":" move around\n turn right\n move table\n."}
+{"prompt":"turn right and stop near the plant\n\n1.","completion":" turn right\n move plant\n."}
+{"prompt":"go to the front of the couch\n\n1.","completion":" move couch\n."}
+{"prompt":"head towards the door and stop in front of the door\n\n1.","completion":" move door\n."}
+{"prompt":"go around the table from right and stop in front of the desk, then drive towards the sofa\n\n1.","completion":" move desk\n move couch\n."}
+{"prompt":"move to the plant from left of the table\n\n1.","completion":" move plant\n."}
+{"prompt":"move to the left of the chair\n\n1.","completion":" move chair\n."}
+{"prompt":"move to door from left of the table\n\n1.","completion":" move door\n."}
+{"prompt":"move to the door and turn right, then move to the front of the bookshelf\n\n1.","completion":" move door\n turn right\n move bookshelf\n."}
+{"prompt":"turn right and move to the window\n\n1.","completion":" turn right\n move window\n."}
+{"prompt":"move to the desk and turn right, then move to the table\n\n1.","completion":" move desk\n turn right\n move table."}
+{"prompt":"move to the sofa and turn right, then move to the trashcan\n\n1.","completion":" move couch\n turn right\n move trashcan."}
+{"prompt":"move to the door and then turn right, then move to the table\n\n1.","completion":" move door\n turn right\n move table."}
+{"prompt":"move to the window and turn left, then move to the bookshelf\n\n1.","completion":" move window\n turn left\n move bookshelf."}
+{"prompt":"turn left and move to the trashcan, and the turn left.\n\n1.","completion":" turn left\n mmove trashcan\n turn left."}
+{"prompt":"go straight to the couch\n\n1.","completion":" move couch\n."}
+{"prompt":"turn left and move to the table, then turn right\n\n1.","completion":" turn left\n move table\n turn right\n."}
+{"prompt":"move to the desk, then turn right and move to the plant\n\n1.","completion":" move desk\n turn right\n move plant\n."}
+{"prompt":"move to the plant and turn right, then move to the nearest window\n\n1.","completion":" move plant\n turn right\n move nearest window\n."}
+{"prompt":"move to the table, move around table and stop at the back of the chair\n\n1.","completion":" move table\n stop chair\n."}
+{"prompt":"move to the desk, turn around and move to the back of the chair\n\n1.","completion":" move desk\n turn around\n move chair\n."}
+{"prompt":"move to the door, and then move to the table\n\n1.","completion":" move door\n move table\n."}
+{"prompt":"move to the left of the sofa\n\n1.","completion":" move couch\n."}
+{"prompt":"move to the room corner near the bookshelf, and then move to the farthest room corner\n\n1.","completion":" move bookshelf\n move farthest corner\n."}
+{"prompt":"move to the window next to the desk, and then move to the door\n\n1.","completion":" move window next to desk\n move door\n."}
+{"prompt":"move to the couch and turn left, then move to the front of the plant\n\n1.","completion":" move couch\n turn left\n move plant\n."}
+{"prompt":"turn left and move to the table\n\n1.","completion":" turn left\n move table\n."}
+{"prompt":"turn right and move to the door\n\n1.","completion":" turn right\n move door\n."}
+{"prompt":"move to the chair, turn left and move to the window\n\n1.","completion":" move chair\n turn left\n move window\n."}
+{"prompt":"move to the couch, turn left and move to the window\n\n1.","completion":" move couch\n turn left\n."}
+{"prompt":"move to the couch. turn right and move to the trashbin\n\n1.","completion":" move couch\n turn right\n move trashbin\n."}
+{"prompt":"turn right and move to the bookshelf\n\n1.","completion":" turn right\n move bookshelf\n."}
+{"prompt":"turn right and move to the table\n\n1.","completion":" turn right\n move table\n."}
+{"prompt":"move to the front of desk\n\n1.","completion":" turn right\n move desk\n."}
+{"prompt":"turn left and move towards the wall\n\n1.","completion":" turn left\n move wall\n."}
+{"prompt":"turn around the move to the front of the couch and turn around again\n\n1.","completion":" turn around\n move couch\n turn around\n."}
+{"prompt":"turn left, move straight towards the wall, then turn left facing the trashcan\n\n1.","completion":" turn left\n move wall\n turn left facing trashcan\n."}
+{"prompt":"turn left, move straight and then move towards the plant\n\n1.","completion":" turn left\n move plant\n."}

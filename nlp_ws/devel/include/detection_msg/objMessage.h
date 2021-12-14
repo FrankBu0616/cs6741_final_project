@@ -1,0 +1,1 @@
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/include/detection_msg/objMessage.h

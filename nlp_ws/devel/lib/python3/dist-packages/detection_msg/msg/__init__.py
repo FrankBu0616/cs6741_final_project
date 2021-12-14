@@ -1,0 +1,1 @@
+/home/frankbu/phd_courses/nlp_ml/nlp_ws/devel/.private/detection_msg/lib/python3/dist-packages/detection_msg/msg/__init__.py

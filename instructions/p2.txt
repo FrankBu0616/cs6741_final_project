@@ -1,0 +1,10 @@
+move to the door and turn right, then move to the front of the bookshelf
+turn right and move to the window
+move to the desk and turn right, then move to the table
+move to the sofa and turn right, then move to the trashcan
+move to the door and then turn right, then move to the table
+move to the window and turn left, then move to the bookshelf
+turn left and move to the trashcan, and the turn left.
+go straight to the couch
+turn left and move to the table, then turn right
+move to the desk, then turn right and move to the lamp

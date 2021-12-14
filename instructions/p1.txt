@@ -1,0 +1,10 @@
+move forward and stop in front of the desk
+turn left and move towards the bookshelf
+turn around and head towards the desk
+turn right and stop near the plant
+go to the front of the sofa
+head towards the door and stop in front of the door
+go around the table from right and stop in front of the desk, then drive towards the sofa
+move to the plant from left of the table
+move to the left of the chair
+move to door from left of the table
