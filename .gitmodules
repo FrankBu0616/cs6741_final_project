@@ -1,0 +1,3 @@
+[submodule "image_similarity"]
+	path = image_similarity
+	url = https://github.com/oke-aditya/image_similarity
